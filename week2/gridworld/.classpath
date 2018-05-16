@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Part2/CircleBug"/>
+	<classpathentry kind="src" path="Part2/DancingBug"/>
+	<classpathentry kind="src" path="Part2/SpiralBug"/>
+	<classpathentry kind="src" path="Part2/ZBug"/>
+	<classpathentry kind="src" path="Part3"/>
+	<classpathentry kind="src" path="Part4/BlusterCritter"/>
+	<classpathentry kind="src" path="Part4/ChameleonKid"/>
+	<classpathentry kind="src" path="Part4/KingCrab"/>
+	<classpathentry kind="src" path="Part4/ModifiedChameleonCritter"/>
+	<classpathentry kind="src" path="Part4/QuickCrab"/>
+	<classpathentry kind="src" path="Part4/RockHound"/>
+	<classpathentry kind="src" path="Part5/1"/>
+	<classpathentry kind="src" path="Part5/2"/>
+	<classpathentry kind="src" path="Part5/3"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/administrator/Desktop/gridworld/gridworld.jar"/>
+	<classpathentry kind="lib" path="/home/administrator/Desktop/gridworld/junit-4.10.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

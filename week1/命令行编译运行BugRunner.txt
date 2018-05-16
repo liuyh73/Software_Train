@@ -1,0 +1,7 @@
+#windows
+javac -classpath .;../../gridworld.jar BugRunner.java
+java -classpath .;../../gridworld.jar BugRunner
+
+#Ubuntu
+javac -classpath .:../../gridworld.jar BugRunner.java
+java -classpath .:../../gridworld.jar BugRunner
